@@ -1,0 +1,6 @@
+# Turn off "Path Info" so index.php/garbage is treated as a 404
+AcceptPathInfo Off
+
+# Tell the server to load 404.php whenever a file isn't found
+# Use the public URL path for this project -- adjust if your project is served from a different virtual path
+ErrorDocument 404 /S.E_Project-main/404.php
