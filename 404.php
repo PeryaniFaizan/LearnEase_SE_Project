@@ -61,7 +61,7 @@ if (isset($_SESSION['is_admin_login'])) {
         }
         h2 {
             font-size: 2rem;
-            color: #2C3E50;
+            color: #155392;
             margin-bottom: 1rem;
         }
         p {
@@ -89,7 +89,7 @@ if (isset($_SESSION['is_admin_login'])) {
 <body>
 
     <div class="error-container">
-        <h1>404</h1>
+        <h1>404-error</h1>
         <h2>Page Not Found</h2>
         <p>Oops! The page you are looking for doesn't exist or has been moved.</p>
         
