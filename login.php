@@ -15,7 +15,7 @@
         <div class="card">
           <div class="text-center mb-2">
             <h1 style="color: #4A90E2;">Welcome Back!</h1>
-            <p>Login to continue your learning journey</p>
+            <p>Login to continue your learning</p>
           </div>
 
           <form id="stuLoginForm">
